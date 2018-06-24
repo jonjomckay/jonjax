@@ -15,12 +15,12 @@
     </properties>
 
     <modules>
+        <module>jonjax-container</module>
+        <module>jonjax-container-default</module>
+        <module>jonjax-container-guice</module>
         <module>jonjax-core</module>
         <module>jonjax-example</module>
         <module>jonjax-server-undertow</module>
-        <module>jonjax-container</module>
-        <module>jonjax-container-guice</module>
-        <module>jonjax-container-default</module>
     </modules>
 
     <dependencies>
