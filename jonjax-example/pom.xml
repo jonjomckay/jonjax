@@ -18,11 +18,11 @@
             <artifactId>jonjax-server-undertow</artifactId>
             <version>${project.parent.version}</version>
         </dependency>
-        <!--<dependency>-->
-            <!--<groupId>com.jonjax</groupId>-->
-            <!--<artifactId>jonjax-container-guice</artifactId>-->
-            <!--<version>${project.parent.version}</version>-->
-        <!--</dependency>-->
+        <dependency>
+            <groupId>com.jonjax</groupId>
+            <artifactId>jonjax-container-guice</artifactId>
+            <version>${project.parent.version}</version>
+        </dependency>
 
         <dependency>
             <groupId>ch.qos.logback</groupId>
